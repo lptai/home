@@ -90,7 +90,7 @@
         {
           "name": "Seat map",
           "highlights": [
-            "A Frontend module, that helps operator draw and interact with seats which are visualized from big stadium. Some big seat map with more than 80 000 seats, that means we have to find a way to deal with a big DOM element in application but have to keep good performance for operator.",
+            "A Frontend module, that helps operator draw and interact with seats which are visualized from big stadium. Some big seat map with more than 80 000 seats, that means we have to find a way to deal with a big DOM element in application but still to keep good performance for operator.",
             "Developing as a widget so that can reuse in others place in application (sales configuration, sale seat map in Box Office module etc)."
           ],
           "keywords": ["HTML5", "Canvas", "SVG", "D3", "ExtJS"]
