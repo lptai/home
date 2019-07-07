@@ -1,14 +1,13 @@
 {
   "basics": {
     "name": "Le Phuc Tai",
-    "label": "Web developer",
-    "picture": "https://avatars0.githubusercontent.com/u/22133730?s=460&v=4",
+    "label": "Fullstack developer",
     "email": "1112264.lptai@gmail.com",
-    "phone": "(84) 122 575 2222",
+    "phone": "(84) 77 575 2222",
     "website": "https://lptai.github.io/",
-    "summary": "I'm a web developer specializing in frontend development with 2 years of experiences in JavaScript (ExtJs, D3, Reactjs, and Angular) and Java (Spring, Hibernate). I'm passionate about JavaScript. As a team player, I always proactive to spread my knowledge or present a new technology to team.",
+    "summary": "I'm a web developer specializing in frontend development with 4 years of experiences in JavaScript (ExtJs, D3, Reactjs, and Angular) and Java (Spring, Hibernate). I'm passionate about JavaScript. As a team player, I always proactive to spread my knowledge or present a new technology to team.",
     "location": {
-      "address": "22/75 Huynh Dinh Hai",
+      "address": "1050 apartment, 04 Phan Chu Trinh, Binh Thanh",
       "postalCode": "70000",
       "city": "Ho Chi Minh",
       "countryCode": "VN",
@@ -55,36 +54,46 @@
       "projects": [
         {
           "name": "SecuTix",
-          "description": "A big product which is a European provider of a Ticketing Engagement Platform that helps organisations boost ticket sales and enhance audiences’ experience before, during and after events."
+          "summary": "A big product which is a European provider of a Ticketing Engagement Platform that helps organisations boost ticket sales and enhance audiences’ experience before, during and after events."
         },
         {
           "name": "Box Office",
-          "description": "A module mostly written by ExtJS (except payment), help operator sales their products (tickets/season ticket etc).",
-          "responsibilities": "Develop new feature for existing module, bugs fixing.",
-          "technical": "Java, SpringMVC, DWR, ExtJS, Oracle"
+          "summary": "A module mostly written by ExtJS (except payment), help operator sales their products (tickets/season ticket etc).",
+          "highlights": [
+            "Develop new feature for existing module, bugs fixing.",
+            "Technical: Java, SpringMVC, DWR, ExtJS, Oracle"
+          ]
         },
         {
           "name": "Seat map",
-          "description": "A Frontend module, that helps operator draw and interact with seats which are visualized from big stadium. Some big seat map with more than 80 000 seats, that means we have to find a way to deal with a big DOM element in application but have to keep good performance for operator.",
-          "responsibilities": "Developing as a widget so that can reuse in others place in application (sales configuration, sale seat map in Box Office module etc).",
-          "technical": "D3, HTML5, Canvas, SVG, ExtJS"
+          "summary": "A Frontend module, that helps operator draw and interact with seats which are visualized from big stadium. Some big seat map with more than 80 000 seats, that means we have to find a way to deal with a big DOM element in application but have to keep good performance for operator.",
+          "highlights": [
+            "Developing as a widget so that can reuse in others place in application (sales configuration, sale seat map in Box Office module etc).",
+            "Technical: D3, HTML5, Canvas, SVG, ExtJS"
+          ]
         },
         {
           "name": "Ticket shop",
-          "description": "A big module that sales products on internet from portal configuration. The purpose is one shop for multiple customers with different customization by configuration portal. The operator can configure different sales channel (B2C, B2B etc) to sales products on this module.",
-          "responsibilities": "Build a scalable resale channel, that ables to display more than 30 000 tickets in a page by seat map instead of a long list ticket items. Using MongoDB to save cache data instead of calling Portal system.",
-          "technical": "Java, MongoDB, Jquery, SASS/LESS"
+          "summary": "A big module that sales products on internet from portal configuration. The purpose is one shop for multiple customers with different customization by configuration portal. The operator can configure different sales channel (B2C, B2B etc) to sales products on this module.",
+          "highlights": [
+            "Build a scalable resale channel, that ables to display more than 30 000 tickets in a page by seat map instead of a long list ticket items. Using MongoDB to save cache data instead of calling Portal system.",
+            "Technical: Java, MongoDB, Jquery, SASS/LESS"
+          ]
         },
         {
           "name": "Gravity",
-          "description": "Develop a new landing page and embedded widget (providing as an iframe) for customer so that they can put on their website. An innovative topic, working directly with colegues in Switzerland.",
-          "responsibilities": "Implement REST api to provide data for Frontend. Build UI component, widget for final purpose is reused and embedded into customer website.",
-          "technical": "Java (REST api), React, Redux"
+          "startDate": "2017-12",
+          "endDate": "2019-04",
+          "position": "Senior Developer",
+          "summary": "Develop a new landing page and embedded widget (providing as an iframe) for customer so that they can put on their website. An innovative topic, working directly with colegues in Switzerland.",
+          "highlights": [
+            "Implement REST api to provide data for Frontend. Build UI component, widget for final purpose is reused and embedded into customer website."
+          ],
+          "keywords": ["Widget", "React", "Redux", "Rest api"]
         }
       ]
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "Ho Chi Minh University of Science",
@@ -94,8 +103,6 @@
       "endDate": "2015-08"
     }
   ],
-  "awards": [],
-  "publications": [],
   "skills": [
     {
       "name": "Programing languages",
@@ -151,6 +158,5 @@
       "name": "Football",
       "keywords": []
     }
-  ],
-  "references": []
+  ]
 }

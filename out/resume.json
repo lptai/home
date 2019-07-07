@@ -1,0 +1,150 @@
+{
+  "name": "Le Phuc Tai",
+  "info": {
+    "label": "Fullstack developer",
+    "brief": "I'm a web developer specializing in frontend development with 4 years of experiences in JavaScript (ExtJs, D3, Reactjs, and Angular) and Java (Spring, Hibernate). I'm passionate about JavaScript. As a team player, I always proactive to spread my knowledge or present a new technology to team."
+  },
+  "contact": {
+    "email": "1112264.lptai@gmail.com",
+    "phone": "(84) 77 575 2222",
+    "website": "https://lptai.github.io/"
+  },
+  "meta": {
+    "format": "FRESH@^1.0.0-beta",
+    "modified": "2019-07-07T05:17:55.781Z"
+  },
+  "location": {
+    "city": "Ho Chi Minh",
+    "region": "",
+    "country": "VN",
+    "code": "70000",
+    "address": "1050 apartment, 04 Phan Chu Trinh, Binh Thanh"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Senior Engineer",
+        "employer": "ELCA",
+        "summary": "As a developer, I participated in product team with Agile/Scrum development process. Daily meeting with team (VN-CH). Clarifying requirement with business owner. Do work breakdown structure for User Story, defining impact, implementing & write auto test for each new feature in US. Collaborating with customer support team to analyze and fix issues in production.",
+        "current": true,
+        "start": "2015-03",
+        "end": "",
+        "url": "https://www.secutix.com/",
+        "keywords": [],
+        "highlights": [
+          "Product mindset in Agile/Scrum development",
+          "Responsible for quality of a Frontend module that helps to visualize seat map with D3 & ExtJs",
+          "Backend technologies Java (Spring, SpringMongo, Hibernate), Oracle, mongodb.",
+          "Frontend technologies JavaScript (ExtJS, JQuery, React etc), CSS3 (SASS/LESS), HTML5.",
+          "Estimation, design and development various modules.",
+          "Bug fixing and maintenance the product.",
+          "Mentoring new members in the team.",
+          "Re-search and sharing new technologies with team members and co-workers.",
+          "Coordinating with other teams in the same project."
+        ]
+      }
+    ]
+  },
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "Ho Chi Minh University of Science",
+        "start": "2011-09",
+        "end": "2015-08",
+        "summary": "",
+        "area": "Information Technology",
+        "studyType": "Bachelor"
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Programing languages",
+        "level": "Advanced",
+        "skills": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Java"
+        ]
+      },
+      {
+        "name": "Framework & platform",
+        "level": "Advanced",
+        "skills": [
+          "JavaScript (ExtJs, D3, ReactJs, Angular)",
+          "Bootstrap, Foundation",
+          "Spring, SpringMongo, Hibernate"
+        ]
+      },
+      {
+        "name": "Database",
+        "level": "Intermediate",
+        "skills": [
+          "Oracle",
+          "MongoDB"
+        ]
+      },
+      {
+        "name": "Others",
+        "level": "Advanced",
+        "skills": [
+          "OOP, Design pattern, SOLID",
+          "Data structure, Algorithm",
+          "Agile, Scrum",
+          "Git, SVN"
+        ]
+      },
+      {
+        "name": "Editor",
+        "level": "Advanced",
+        "skills": [
+          "VSCode",
+          "eclipse"
+        ]
+      }
+    ]
+  },
+  "social": [
+    {
+      "label": "Github",
+      "network": "Github",
+      "url": "https://github.com/lptai",
+      "user": "lptai"
+    },
+    {
+      "label": "Stack OverFlow",
+      "network": "Stack OverFlow",
+      "url": "https://stackoverflow.com/users/4886453/tai-le",
+      "user": "taile"
+    },
+    {
+      "label": "LinkedIn",
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/taile-779a97131",
+      "user": "taile"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Reading",
+      "keywords": []
+    },
+    {
+      "name": "Football",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Vietnamese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ]
+}

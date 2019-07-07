@@ -1,1 +1,1 @@
-hackmyresume BUILD pte-resume.json TO out/resume.all -t node_modules/jsonresume-theme-stackoverflow
+hackmyresume BUILD pte-resume.json TO out/resume.all -t ./../jsonresume-theme-stackoverflow
