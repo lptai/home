@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Le Phuc Tai",
-    "label": "Fullstack developer",
+    "label": "Full-stack developer",
     "email": "1112264.lptai@gmail.com",
     "phone": "(84) 77 575 2222",
     "website": "https://lptai.github.io/",
-    "summary": "I'm a web developer specializing in frontend development with 4 years of experiences in JavaScript (ExtJs, D3, Reactjs, and Angular) and Java (Spring, Hibernate). I'm passionate about JavaScript. As a team player, I always proactive to spread my knowledge or present a new technology to team.",
+    "summary": "Full-stack developer with 4 years of experiences specializing in JavaScript (ExtJs, D3, React-Redux) and Java (Spring, Hibernate)",
     "location": {
       "address": "1050 apartment, 04 Phan Chu Trinh, Binh Thanh",
       "postalCode": "70000",
@@ -34,10 +34,37 @@
   "work": [
     {
       "company": "ELCA",
+      "position": "Internship",
+      "startDate": "2015-03",
+      "endDate": "2015-06",
+      "projects": [
+        {
+          "name": "Hut Reservation",
+          "startDate": "2015-03",
+          "endDate": "2015-06",
+          "position": "Frontend developer",
+          "summary": "Developed a single page web application with Java (using Jersey as REST api) and AngularJS. That helps guest, climbers, mountaineers, families reserve hut. Developing offline mode, synchronize data when network reconnect",
+          "keywords": [
+            "Java (Jersey), Hibernate",
+            "AngularJS, Angular material",
+            "BreezeJS",
+            "Bootstrap"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "ELCA",
+      "position": "Engineer",
+      "startDate": "2015-08",
+      "endDate": "2018-01"
+    },
+    {
+      "company": "SecuTix | ELCA",
       "position": "Senior Engineer",
       "website": "https://www.secutix.com/",
-      "startDate": "2015-03",
-      "endDate": "",
+      "startDate": "2018-01",
+      "endDate": "2019-05",
       "description": "Ticketing system",
       "summary": "As a developer, I participated in product team with Agile/Scrum development process. Daily meeting with team (VN-CH). Clarifying requirement with business owner. Do work breakdown structure for User Story, defining impact, implementing & write auto test for each new feature in US. Collaborating with customer support team to analyze and fix issues in production.",
       "highlights": [
@@ -53,40 +80,36 @@
       ],
       "projects": [
         {
-          "name": "SecuTix",
-          "summary": "A big product which is a European provider of a Ticketing Engagement Platform that helps organisations boost ticket sales and enhance audiences’ experience before, during and after events."
-        },
-        {
           "name": "Box Office",
-          "summary": "A module mostly written by ExtJS (except payment), help operator sales their products (tickets/season ticket etc).",
           "highlights": [
-            "Develop new feature for existing module, bugs fixing.",
-            "Technical: Java, SpringMVC, DWR, ExtJS, Oracle"
-          ]
+            "A module mostly written by ExtJS (except payment), help operator sales their products (tickets/season ticket etc).",
+            "Develop new feature for existing module, bugs fixing."
+          ],
+          "keywords": ["Java", "Spring MVC", "Hibernate", "ExtJS"]
         },
         {
           "name": "Seat map",
-          "summary": "A Frontend module, that helps operator draw and interact with seats which are visualized from big stadium. Some big seat map with more than 80 000 seats, that means we have to find a way to deal with a big DOM element in application but have to keep good performance for operator.",
           "highlights": [
-            "Developing as a widget so that can reuse in others place in application (sales configuration, sale seat map in Box Office module etc).",
-            "Technical: D3, HTML5, Canvas, SVG, ExtJS"
-          ]
+            "A Frontend module, that helps operator draw and interact with seats which are visualized from big stadium. Some big seat map with more than 80 000 seats, that means we have to find a way to deal with a big DOM element in application but have to keep good performance for operator.",
+            "Developing as a widget so that can reuse in others place in application (sales configuration, sale seat map in Box Office module etc)."
+          ],
+          "keywords": ["HTML5", "Canvas", "SVG", "D3", "ExtJS"]
         },
         {
           "name": "Ticket shop",
-          "summary": "A big module that sales products on internet from portal configuration. The purpose is one shop for multiple customers with different customization by configuration portal. The operator can configure different sales channel (B2C, B2B etc) to sales products on this module.",
           "highlights": [
-            "Build a scalable resale channel, that ables to display more than 30 000 tickets in a page by seat map instead of a long list ticket items. Using MongoDB to save cache data instead of calling Portal system.",
-            "Technical: Java, MongoDB, Jquery, SASS/LESS"
-          ]
+            "A big module that sales products on internet from portal configuration. The purpose is one shop for multiple customers with different customization by configuration portal. The operator can configure different sales channel (B2C, B2B etc) to sales products on this module.",
+            "Build a scalable resale channel, that ables to display more than 30 000 tickets in a page by seat map instead of a long list ticket items. Using MongoDB to store cached data instead of calling Portal system."
+          ],
+          "keywords": ["Java", "MongoDB", "Jquery", "SASS/LESS"]
         },
         {
           "name": "Gravity",
           "startDate": "2017-12",
           "endDate": "2019-04",
           "position": "Senior Developer",
-          "summary": "Develop a new landing page and embedded widget (providing as an iframe) for customer so that they can put on their website. An innovative topic, working directly with colegues in Switzerland.",
           "highlights": [
+            "Develop a new landing page and embedded widget (providing as an iframe) for customer so that they can put on their website. An innovative topic, working directly with colegues in Switzerland.",
             "Implement REST api to provide data for Frontend. Build UI component, widget for final purpose is reused and embedded into customer website."
           ],
           "keywords": ["Widget", "React", "Redux", "Rest api"]
@@ -107,16 +130,12 @@
     {
       "name": "Programing languages",
       "level": "Advanced",
-      "keywords": ["HTML", "CSS", "Javascript", "Java"]
+      "keywords": ["es6", "Java"]
     },
     {
-      "name": "Framework & platform",
+      "name": "Framework & Tools",
       "level": "Advanced",
-      "keywords": [
-        "JavaScript (ExtJs, D3, ReactJs, Angular)",
-        "Bootstrap, Foundation",
-        "Spring, SpringMongo, Hibernate"
-      ]
+      "keywords": ["React-Redux, ExtJS, D3, Gulp", "Spring, SpringMongo, Hibernate"]
     },
     {
       "name": "Database",
@@ -126,17 +145,12 @@
     {
       "name": "Others",
       "level": "Advanced",
-      "keywords": [
-        "OOP, Design pattern, SOLID",
-        "Data structure, Algorithm",
-        "Agile, Scrum",
-        "Git, SVN"
-      ]
+      "keywords": ["Agile, Scrum", "Git, SVN"]
     },
     {
       "name": "Editor",
       "level": "Advanced",
-      "keywords": ["VSCode", "eclipse"]
+      "keywords": ["vsCode"]
     }
   ],
   "languages": [

@@ -11,7 +11,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2019-07-07T07:29:09.790Z"
+    "modified": "2019-07-07T06:59:59.437Z"
   },
   "location": {
     "city": "Ho Chi Minh",
@@ -24,10 +24,11 @@
     "history": [
       {
         "position": "Senior Engineer",
-        "employer": "SecuTix | ELCA",
+        "employer": "ELCA",
         "summary": "As a developer, I participated in product team with Agile/Scrum development process. Daily meeting with team (VN-CH). Clarifying requirement with business owner. Do work breakdown structure for User Story, defining impact, implementing & write auto test for each new feature in US. Collaborating with customer support team to analyze and fix issues in production.",
-        "start": "2018-01",
-        "end": "2019-05",
+        "current": true,
+        "start": "2015-08",
+        "end": "",
         "url": "https://www.secutix.com/",
         "keywords": [],
         "highlights": [
@@ -43,18 +44,13 @@
         ]
       },
       {
-        "position": "Engineer",
-        "employer": "ELCA",
-        "start": "2015-08",
-        "end": "2018-01",
-        "keywords": []
-      },
-      {
         "position": "Internship",
         "employer": "ELCA",
+        "summary": "Developed a single page web application with Java (using Jersey as REST api) and AngularJS. That helps guest, climbers, mountaineers, families reserve hut.",
         "start": "2015-03",
         "end": "2015-06",
-        "keywords": []
+        "keywords": [],
+        "highlights": ""
       }
     ]
   },
@@ -77,15 +73,18 @@
         "name": "Programing languages",
         "level": "Advanced",
         "skills": [
-          "es6",
+          "HTML",
+          "CSS",
+          "Javascript",
           "Java"
         ]
       },
       {
-        "name": "Framework & Tools",
+        "name": "Framework & platform",
         "level": "Advanced",
         "skills": [
-          "React-Redux, ExtJS, D3, Gulp",
+          "JavaScript (ExtJs, D3, ReactJs, Angular)",
+          "Bootstrap, Foundation",
           "Spring, SpringMongo, Hibernate"
         ]
       },
@@ -101,6 +100,8 @@
         "name": "Others",
         "level": "Advanced",
         "skills": [
+          "OOP, Design pattern, SOLID",
+          "Data structure, Algorithm",
           "Agile, Scrum",
           "Git, SVN"
         ]
@@ -109,7 +110,8 @@
         "name": "Editor",
         "level": "Advanced",
         "skills": [
-          "vsCode"
+          "VSCode",
+          "eclipse"
         ]
       }
     ]
