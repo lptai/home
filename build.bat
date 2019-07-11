@@ -1,1 +1,0 @@
-hackmyresume BUILD pte-resume.json TO out/resume.all -t ./../jsonresume-theme-stackoverflow

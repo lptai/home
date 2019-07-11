@@ -4,7 +4,8 @@
     "jsonresume-theme-stackoverflow": "^1.4.0"
   },
   "scripts": {
-    "topdf": "wkhtmltopdf --dpi 300 --zoom 1.8 LePhucTai.html LePhucTai.pdf",
-    "gen": "hackmyresume BUILD pte-resume.json TO out/resume.all -t ./../jsonresume-theme-stackoverflow"
+    "topdf": "wkhtmltopdf out/resume.html out/resume.pdf",
+    "topdfzoom": "wkhtmltopdf --dpi 300 --zoom 1.8 index.html LePhucTai.pdf",
+    "gen": "hackmyresume BUILD pte-resume.json TO out/resume.all -t ./json-theme-stackoverflow"
   }
 }
