@@ -6,6 +6,6 @@
   "scripts": {
     "topdf": "wkhtmltopdf out/resume.html out/resume.pdf",
     "topdfzoom": "wkhtmltopdf --dpi 300 --zoom 1.8 index.html LePhucTai.pdf",
-    "gen": "hackmyresume BUILD pte-resume.json TO out/resume.all -t ./json-theme-stackoverflow"
+    "gen": "hackmyresume BUILD pte-resume.json TO out/resume.all -t ./../jsonresume-theme-stackoverflow"
   }
 }
