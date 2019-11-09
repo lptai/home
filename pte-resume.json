@@ -4,7 +4,7 @@
     "label": "Full-stack developer",
     "email": "1112264.lptai@gmail.com",
     "phone": "(84) 77 575 2222",
-    "website": "https://lptai.github.io/",
+    "website": "http://phuctaile.com",
     "summary": "Full-stack developer with 4 years of experiences specializing in JavaScript (ExtJs, D3, React-Redux) and Java (Spring, Hibernate)",
     "location": {
       "address": "1050 apartment, 04 Phan Chu Trinh, Binh Thanh",
@@ -66,15 +66,15 @@
       "startDate": "2018-01",
       "endDate": "2019-05",
       "description": "Ticketing system",
-      "summary": "As a developer, I participated in product team with Agile/Scrum development process. Daily meeting with team (VN-CH). Clarifying requirement with business owner. Do work breakdown structure for User Story, defining impact, implementing & write auto test for each new feature in US. Collaborating with customer support team to analyze and fix issues in production.",
+      "summary": "As a developer, I participated in a product team with Agile/Scrum development process. Daily meeting with the team (VN-CH). Clarifying requirement with the business owner. Do work breakdown structure for User Story, defining impact, implementing & write automation test for each new feature in User Story. Collaborating with the customer support team to analyze and fix issues in production.",
       "highlights": [
-        "Product mindset in Agile/Scrum development",
-        "Responsible for quality of a Frontend module that helps to visualize seat map with D3 & ExtJs",
-        "Backend technologies Java (Spring, SpringMongo, Hibernate), Oracle, mongodb.",
+        "Product mindset in Agile/Scrum development.",
+        "Responsible for the quality of a Frontend module that helps to visualize seat maps with D3 & ExtJs.",
+        "Backend technologies Java (Spring, SpringMongo, Hibernate), Oracle, MongoDB.",
         "Frontend technologies JavaScript (ExtJS, JQuery, React etc), CSS3 (SASS/LESS), HTML5.",
         "Estimation, design and development various modules.",
-        "Bug fixing and maintenance the product.",
-        "Mentoring new members in the team.",
+        "Bug fixing and maintain the product.",
+        "Mentoring new members join the team.",
         "Re-search and sharing new technologies with team members and co-workers.",
         "Coordinating with other teams in the same project."
       ],
@@ -82,24 +82,24 @@
         {
           "name": "Box Office",
           "highlights": [
-            "A module mostly written by ExtJS (except payment), help operator sales their products (tickets/season ticket etc).",
-            "Develop new feature for existing module, bugs fixing."
+            "A module mostly is written by ExtJS (except payment), help operators sales their products (tickets/season tickets, etc).",
+            "Develop new features for this existing module, bugs fixing."
           ],
           "keywords": ["Java", "Spring MVC", "Hibernate", "ExtJS"]
         },
         {
           "name": "Seat map",
           "highlights": [
-            "A Frontend module, that helps operator draw and interact with seats which are visualized from big stadium. Some big seat map with more than 80 000 seats, that means we have to find a way to deal with a big DOM element in application but still to keep good performance for operator.",
-            "Developing as a widget so that can reuse in others place in application (sales configuration, sale seat map in Box Office module etc)."
+            "A Frontend module, that helps operator draw and interact with seats which are visualized from a big stadium. Some big seat map with more than 80 000 seats, that means we have to find a way to deal with a big DOM element in application but have to keep good performance for the operator.",
+            "Developing as a widget so that can reuse in other places in the application (sales configuration, sale seat map in Box Office module, etc)."
           ],
           "keywords": ["HTML5", "Canvas", "SVG", "D3", "ExtJS"]
         },
         {
           "name": "Ticket shop",
           "highlights": [
-            "A big module that sales products on internet from portal configuration. The purpose is one shop for multiple customers with different customization by configuration portal. The operator can configure different sales channel (B2C, B2B etc) to sales products on this module.",
-            "Build a scalable resale channel, that ables to display more than 30 000 tickets in a page by seat map instead of a long list ticket items. Using MongoDB to store cached data instead of calling Portal system."
+            "A big module that sales products on the internet from the portal configuration. The purpose is one shop for multiple customers with different customization by the configuration portal. The operator can configure different sales channels (B2C, B2B, etc) to sales products on this module.",
+            "Build a scalable resale channel, that ables to display more than 30 000 tickets in a page by seat map instead of a long list ticket items. Using MongoDB to store cached data instead of calling the portal system."
           ],
           "keywords": ["Java", "MongoDB", "Jquery", "SASS/LESS"]
         },
@@ -109,8 +109,8 @@
           "endDate": "2019-04",
           "position": "Senior Developer",
           "highlights": [
-            "Develop a new landing page and embedded widget (providing as an iframe) for customer so that they can put on their website. An innovative topic, working directly with colegues in Switzerland.",
-            "Implement REST api to provide data for Frontend. Build UI component, widget for final purpose is reused and embedded into customer website."
+            "Develop widgets (providing as an iframe) for customers so that they can put on their website. An innovative topic, working directly with colleagues in Switzerland.",
+            "Implement REST API to provide data for Frontend. Build UI component, widget for final purpose is reused and embedded into customers' website."
           ],
           "keywords": ["Widget", "React", "Redux", "Rest api"]
         }
@@ -130,12 +130,12 @@
     {
       "name": "Programing languages",
       "level": "Advanced",
-      "keywords": ["es6", "Java"]
+      "keywords": ["JavaScript (ES6)", "Java"]
     },
     {
       "name": "Framework & Tools",
       "level": "Advanced",
-      "keywords": ["React-Redux, ExtJS, D3, Gulp", "Spring, SpringMongo, Hibernate"]
+      "keywords": ["React-Redux, Webpack, ExtJS, D3, Gulp", "Spring, SpringMongo, Hibernate"]
     },
     {
       "name": "Database",
