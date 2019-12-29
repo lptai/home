@@ -11,7 +11,7 @@ module.exports = {
       resolve: "gatsby-plugin-web-font-loader",
       options: {
         google: {
-          families: ["Montserrat","Helvetica Neue", "Helvetica", "Arial", "Lucida Grande", "sans-serif"],
+          families: ["Montserrat", "Arial", "Lucida Grande", "sans-serif"],
         },
       },
     },
