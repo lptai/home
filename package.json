@@ -1,0 +1,55 @@
+{
+  "name": "lptai.github.io",
+  "private": true,
+  "description": "",
+  "version": "0.1.0",
+  "author": "taile <1112264.lptai@gmail.com>",
+  "dependencies": {
+    "@emotion/core": "^10.0.10",
+    "@emotion/styled": "^10.0.11",
+    "@fortawesome/fontawesome-svg-core": "^1.2.26",
+    "@fortawesome/free-brands-svg-icons": "^5.12.0",
+    "@fortawesome/free-solid-svg-icons": "^5.12.0",
+    "@fortawesome/react-fontawesome": "^0.1.8",
+    "gatsby": "^2.18.8",
+    "gatsby-image": "^2.1.2",
+    "gatsby-plugin-emotion": "^4.0.7",
+    "gatsby-plugin-manifest": "^2.1.1",
+    "gatsby-plugin-netlify": "^2.1.2",
+    "gatsby-plugin-offline": "^2.1.1",
+    "gatsby-plugin-react-helmet": "^3.0.12",
+    "gatsby-plugin-sharp": "^2.1.3",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
+    "gatsby-remark-prismjs": "^3.3.21",
+    "gatsby-remark-reading-time": "^1.0.1",
+    "gatsby-source-filesystem": "^2.0.38",
+    "gatsby-transformer-remark": "^2.3.12",
+    "gatsby-transformer-sharp": "^2.1.21",
+    "prism-themes": "^1.1.0",
+    "prismjs": "^1.17.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.1",
+    "typeface-nunito": "0.0.72"
+  },
+  "devDependencies": {
+    "prettier": "^1.17.1"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "dev": "gatsby develop",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "npm run dev",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lptai.github.io"
+  }
+}
