@@ -9,6 +9,8 @@ import {
   faStackOverflow,
 } from "@fortawesome/free-brands-svg-icons"
 
+import { faFileAlt as faFilePdf } from "@fortawesome/free-solid-svg-icons"
+
 import SocialLink from "./SocialLink"
 
 const Container = styled.div`
@@ -63,11 +65,6 @@ const SocialLinkList = styled.div`
 
 const socialLinks = [
   {
-    name: "Instagram",
-    icon: faInstagram,
-    url: "https://www.instagram.com/chupchoithui/",
-  },
-  {
     name: "GitHub",
     icon: faGithub,
     url: "https://github.com/lptai",
@@ -81,6 +78,16 @@ const socialLinks = [
     name: "LinkedIn",
     icon: faLinkedin,
     url: "https://www.linkedin.com/in/taile-779a97131/",
+  },
+  {
+    name: "Resume",
+    icon: faFilePdf,
+    url: "https://github.com/lptai/resume/raw/gh-pages/phuctaile.pdf",
+  },
+  {
+    name: "Instagram",
+    icon: faInstagram,
+    url: "https://www.instagram.com/chupchoithui/",
   },
 ]
 
