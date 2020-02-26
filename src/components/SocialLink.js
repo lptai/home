@@ -11,9 +11,7 @@ const Icon = styled.a`
   width: 2.5rem;
   height: 1rem;
 
-  &:hover,
-  &:focus,
-  &:active {
+  &:hover {
     color: #000;
   }
 `
@@ -24,7 +22,7 @@ const Title = styled.span`
 
 const SocialLink = ({ name, url, icon }) => {
   return (
-    <Icon href={url} target="blank">
+    <Icon href={url} target="#">
       <FontAwesomeIcon icon={icon} />
       <Title>{name}</Title>
     </Icon>
