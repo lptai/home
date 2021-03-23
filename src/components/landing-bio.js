@@ -77,7 +77,7 @@ const socialLinks = [
   {
     name: "LinkedIn",
     icon: faLinkedin,
-    url: "https://www.linkedin.com/in/taile-779a97131/",
+    url: "https://www.linkedin.com/in/phuctaile/",
   },
   {
     name: "Resume",
